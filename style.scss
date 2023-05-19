@@ -435,7 +435,7 @@ $padding--XXL: 6rem;
           scale: 1.05;
           transition: 200ms ease-in;
         }
-        a {
+        .es-routine__button {
           @include btn--primary--hover;
         }
       }

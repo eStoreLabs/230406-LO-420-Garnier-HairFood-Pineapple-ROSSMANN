@@ -380,7 +380,7 @@
   scale: 1.05;
   transition: 200ms ease-in;
 }
-#es-RC-container .es-routine__single:hover a {
+#es-RC-container .es-routine__single:hover .es-routine__button {
   background-color: white;
   color: #f08365;
 }
